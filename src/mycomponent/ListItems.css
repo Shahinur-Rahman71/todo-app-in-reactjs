@@ -1,0 +1,19 @@
+.list{
+    height: 50px;
+    background-color: darkviolet;
+    width: 80%;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-bottom: 13px; 
+    
+}
+/* .list p{
+    transition: ease-in-out;
+} */
+.list p input{
+    background-color: transparent;
+    border: 0;
+}
+.list p input:focus{
+    outline: none;
+}
